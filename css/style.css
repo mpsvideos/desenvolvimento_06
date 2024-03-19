@@ -1,0 +1,65 @@
+header {
+    background-color: lightgrey;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background-color: lightgrey;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: beige;
+}
+
+.parque_img {
+    display: flex;
+    justify-content: space-between;
+}
+
+.paco_img {
+    display: flex;
+    justify-content: space-between;
+}
+
+.praca_marco_zero {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    border-radius: 3px;
+    border: 1px solid black;
+    
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+}
+
+nav ul {
+    text-decoration: none;
+    list-style: none;
+}
+
+.marco_zero_img {
+    display: flex;
+    justify-content: space-between;
+}
